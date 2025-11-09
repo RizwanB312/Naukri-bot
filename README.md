@@ -1,2 +1,2 @@
 # Naukri-bot
-A Web Scraper and auto-apply bot focusing on the platform Naukri
+Automated job application bot for Naukri using Python and Selenium.
